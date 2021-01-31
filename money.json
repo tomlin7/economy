@@ -1,0 +1,36 @@
+{
+    "users": {
+        "1": {
+            "name": "example_user1",
+            "score": 0
+        },
+        "2": {
+            "name": "example_user2",
+            "score": 0
+        },
+        "3": {
+            "name": "example_user3",
+            "score": 0
+        },
+        "4": {
+            "name": "example_user4",
+            "score": 0
+        },
+        "5": {
+            "name": "example_user5",
+            "score": 0
+        },
+        "699589680408297553": {
+            "name": "billyboioioi#5308",
+            "job": 5,
+            "wallet": 1000,
+            "bank": 0
+        },
+        "460608954226049024": {
+            "name": "PP#4017",
+            "job": 1,
+            "wallet": 1000,
+            "bank": 0
+        }
+    }
+}

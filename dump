@@ -1,0 +1,4 @@
+# people = people_list.readlines()
+# people_list.close()
+# for i in range(len(people)):
+#     people[i] = people[i].strip("\n")
