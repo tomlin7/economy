@@ -136,4 +136,4 @@ async def deposit(ctx, amount: int = None, part: str = None):
 
 
 # noinspection SpellCheckingInspection
-client.run('Nzc3MDIwODg2NDU1ODEyMTA2.X69XFw.xIFobbieghH4M7a0XvmB2JMBUQs')
+client.run('Nzc3MDIwODg2NDU1ODEyMTA2.X69XFw.Jqs1aTzf2Wa9Qz1L0a64LzTwN1s')
