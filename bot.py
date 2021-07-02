@@ -33,4 +33,4 @@ async def paginate(ctx):
     await paginator.run()
 
 # noinspection SpellCheckingInspection
-client.run('Nzc3MDIwODg2NDU1ODEyMTA2.X69XFw.xIFobbieghH4M7a0XvmB2JMBUQs')
+client.run('Token')
