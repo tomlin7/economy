@@ -2,23 +2,23 @@
     "users": {
         "1": {
             "name": "example_user1",
-            "score": 0
+            "wallet": 0
         },
         "2": {
             "name": "example_user2",
-            "score": 0
+            "wallet": 0
         },
         "3": {
             "name": "example_user3",
-            "score": 0
+            "wallet": 0
         },
         "4": {
             "name": "example_user4",
-            "score": 0
+            "wallet": 0
         },
         "5": {
             "name": "example_user5",
-            "score": 0
+            "wallet": 0
         },
         "699589680408297553": {
             "name": "billyboioioi#5308",
