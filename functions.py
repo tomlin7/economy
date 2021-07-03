@@ -37,7 +37,7 @@ def make_leaderboard() -> dict:
     """
     sync_data()
     # order function
-    order = sorted(users.items(), key=lambda val: val[1]['score'], reverse=True)
+    order = sorted(users.items(), key=lambda val: val[1]['wallet'], reverse=True)
 
     # ranks dict
     names = {
@@ -61,7 +61,7 @@ def make_leaderboard() -> dict:
         names[name]['id'] = str(order[number])[2:x + 2]
 
         names[name]['name'] = users[names[name]['id']]['name']
-        names[name]['score'] = users[names[name]['id']]['score']
+        names[name]['score'] = users[names[name]['id']]['wallet']
 
         # print(names[name]['id'], names[name]['name'], names[name]['score'])
     return names
